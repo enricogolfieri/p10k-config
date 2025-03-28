@@ -17,7 +17,7 @@ Add the following to your `.zshrc` file:
 antigen theme romkatv/powerlevel10k
 
 # Load my personal p10k configuration
-antigen bundle enricogolfieri/p10k-config
+antigen bundle enricogolfieri/p10k-config --branch=main
 ```
 
 ### Manual Installation
